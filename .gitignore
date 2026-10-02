@@ -1,0 +1,4 @@
+New-Item src\main.cpp
+New-Item parallel\main_openmp.cpp
+New-Item scripts\analyze_results.py
+New-Item .gitignore
